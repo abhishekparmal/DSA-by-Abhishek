@@ -41,6 +41,6 @@ Feel free to contribute by improving solutions or adding new problems. Submit a 
 
 Connect with me on:
 
-- **GitHub:** [github.com/your-username](https://github.com/abhishekparmal)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/abhishekparmal)
+- **GitHub:** [github](https://github.com/abhishekparmal)
+- **LinkedIn:** [linkedin](https://linkedin.com/in/abhishekparmal)
 
