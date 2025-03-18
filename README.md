@@ -1,6 +1,6 @@
 # DSA-by-Abhishek
 
-Welcome to **DSA-by-Abhishek**! This repository contains implementations of essential **Data Structures and Algorithms (DSA)** concepts in **Java** and **JavaScript**.
+Welcome to **DSA-by-Abhishek**! This repository contains implementations of essential **Data Structures & Algorithms (DSA)** concepts in **Java** and **JavaScript**.
 
 ## 📌 Topics Covered
 
