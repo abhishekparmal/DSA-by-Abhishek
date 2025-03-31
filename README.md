@@ -19,7 +19,7 @@ Welcome to **DSA-by-Abhishek**! This repository contains implementations of esse
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/DSA-by-Abhishek.git
+   git clone https://github.com/abhishekparmal/DSA-by-Abhishek.git
    ```
 2. Navigate to the folder:
    ```bash
